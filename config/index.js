@@ -58,25 +58,25 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
+      url: "https://www.linkedin.com/in/aryanv01/",
     },
-    {
-      name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
-    },
+    // {
+    //   name: "Medium",
+    //   url: "https://konstantinmuenster.medium.com/",
+    // },
     {
       name: "Github",
       url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
-    },
-    {
-      name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
+        "https://github.com/i-aryan",
     },
     // {
-    //   name: "Mail",
-    //   url: "mailto:mail@konstantin.digital",
+    //   name: "Behance",
+    //   url: "https://www.behance.net/konstanmnster",
     // },
+    {
+      name: "Mail",
+      url: "mailto:aryanv2001@gmail.com",
+    },
   ],
 
   //-- NAVIGATION SETTINGS -----
