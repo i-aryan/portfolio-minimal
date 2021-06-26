@@ -60,10 +60,10 @@ module.exports = {
       name: "Linkedin",
       url: "https://www.linkedin.com/in/aryanv01/",
     },
-    // {
-    //   name: "Medium",
-    //   url: "https://konstantinmuenster.medium.com/",
-    // },
+    {
+      name: "Medium",
+      url: "https://medium.com/@aryanv01",
+    },
     {
       name: "Github",
       url:
